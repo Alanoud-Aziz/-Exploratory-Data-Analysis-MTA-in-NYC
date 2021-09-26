@@ -30,7 +30,7 @@ Determine busy stations and more,
 
 - How do you intend to meet the tools requirement of the project?
 
-By using Pandas, Numby, Matplot, and seaborn.
+By using Pandas, Numby, Matplotlip, and seaborn.
 
 - Are you planning in advance to need or use additional tools beyond those required?
 
