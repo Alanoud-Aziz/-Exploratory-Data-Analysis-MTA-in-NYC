@@ -2,7 +2,7 @@
 
 - What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-By using MTA data , Determine 5 subway stations to distribute 5 billboard where there are a lot of working people and start advertising campaign.
+By using MTA data , Determine 5 most crowd subway stations in different divisions  to distribute 5 billboard cover a wide geographical area and start advertising campaign.
 
 
 - Who benefits from exploring this question or building this model/system?
@@ -30,7 +30,7 @@ Determine busy stations and more,
 
 - How do you intend to meet the tools requirement of the project?
 
-By using Pandas, Numby, Matplotlip, and seaborn.
+By using Pandas, Numby, Matplotlip, and seaborn and SQLALCHEMY.
 
 - Are you planning in advance to need or use additional tools beyond those required?
 
