@@ -23,5 +23,5 @@ Perform a thorough Exploratory Data Analysis of the MTA turnstile data; clean, e
 
 Numpy and Pandas for data manipulation
 Matplotlib and Seaborn for plotting
-SQLalchemy 
+SQLalchemy
 
